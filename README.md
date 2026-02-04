@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello, I am a Junior Full Stack Web Developer who is enthusiastic about web technology and application development. With a strong foundation in HTML, CSS, JavaScript, and [mention frameworks, e.g. Vue/Laravel], I have a strong desire to continue growing. I am very passionate about learning new technologies, solving technical problems, and collaborating in teams to create efficient and user-friendly digital solutions.
+Hello, I am a Junior Full Stack Web Developer and Software Engineer who is enthusiastic about web technology and application development. With a strong foundation in HTML, CSS, JavaScript, and [mention frameworks, e.g. Vue/Laravel], I have a strong desire to continue growing. I am very passionate about learning new technologies, solving technical problems, and collaborating in teams to create efficient and user-friendly digital solutions.
 
 
 ## 🌐 Socials:

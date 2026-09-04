@@ -1,11 +1,124 @@
-# 💫 About Me:
-Hello, I am a Junior Full Stack Web Developer and Software Engineer who is enthusiastic about web technology and application development. With a strong foundation in HTML, CSS, JavaScript, and [mention frameworks, e.g. Vue/Laravel], I have a strong desire to continue growing. I am very passionate about learning new technologies, solving technical problems, and collaborating in teams to create efficient and user-friendly digital solutions.
+<div align="center">
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2800&pause=900&color=3399FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Echa+%F0%9F%91%8B;Junior+Full+Stack+Developer+%F0%9F%9A%80;Software+Engineer+in+Progress+%F0%9F%A7%A0;I+Build+Things+That+Actually+Work+%F0%9F%94%A5" />
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/echmry) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/echa-muhammad-roffy-yandi) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@echait27) 
+<br>
+</div>
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB). ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+---
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div align="center">
+
+### ⚡ `Code. Build. Break. Fix. Repeat.`
+
+<img src="https://komarev.com/ghpvc/?username=echmry&label=PROFILE%20VIEWS&color=2563eb&style=for-the-badge" />
+
+</div>
+
+---
+
+## 👨‍💻 Who Am I?
+
+```javascript
+const echa = {
+    name: "Echa Muhammad Roffy Yandi",
+    role: "Junior FullStack Web Developer",
+    location: "Indonesia 🇮🇩",
+
+    code: [
+        "JavaScript",
+        "TypeScript",
+        "PHP"
+    ],
+
+    frontend: [
+        "Nuxt.js",
+        "Tailwind CSS"
+    ],
+
+    backend: [
+        "Express.js",
+        "Laravel"
+    ],
+
+    database: [
+        "MySQL"
+    ],
+
+    tools: [
+        "Git",
+        "GitHub"
+    ],
+
+    mindset:
+        "Always learning. Always building. 🚀"
+};
+```
+
+---
+
+<div align="center">
+
+## 🧩 Tech Arsenal
+
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=js,ts,vue,nuxt,tailwind&perline=7" />
+
+### Backend
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,laravel&perline=4" />
+
+### Database & DevOps
+
+<img src="https://skillicons.dev/icons?i=mysql,git,github&perline=6" />
+
+</div>
+
+---
+
+## 🌐 Find Me Around The Internet
+
+<div align="center">
+
+<a href="https://linkedin.com/in/echa-muhammad-roffy-yandi">
+<img src="https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=38bdf8" />
+</a>
+
+<a href="https://instagram.com/echmry">
+<img src="https://img.shields.io/badge/Instagram-0f172a?style=for-the-badge&logo=instagram&logoColor=38bdf8" />
+</a>
+
+<a href="https://tiktok.com/@echait27">
+<img src="https://img.shields.io/badge/TikTok-0f172a?style=for-the-badge&logo=tiktok&logoColor=38bdf8" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### ⚙️ Currently In My Terminal
+
+```text
+> learning new things...
+> building projects...
+> fixing bugs...
+> deploying...
+> coffee.exe running...
+```
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2200&pause=500&color=38BDF8&center=true&vCenter=true&width=550&lines=npm+run+dev;git+commit+-m+%22ship+it%22;-+debugging...;-+building+something+cool..." />
+
+</div>
+
+---
+
+<div align="center">
+
+### `Thanks for stopping by 👋`
+
+**Let's build something awesome. 🚀**
+
+</div>

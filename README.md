@@ -7,16 +7,6 @@
 
 ---
 
-<div align="center">
-
-### ⚡ `Code. Build. Break. Fix. Repeat.`
-
-<img src="https://komarev.com/ghpvc/?username=echmry&label=PROFILE%20VIEWS&color=2563eb&style=for-the-badge" />
-
-</div>
-
----
-
 ## 👨‍💻 Who Am I?
 
 ```javascript

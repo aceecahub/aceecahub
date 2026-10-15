@@ -1,114 +1,102 @@
+ 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2800&pause=900&color=3399FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Echa+%F0%9F%91%8B;Junior+Full+Stack+Developer+%F0%9F%9A%80;Software+Engineer+in+Progress+%F0%9F%A7%A0;I+Build+Things+That+Actually+Work+%F0%9F%94%A5" />
+# Echa Muhammad Roffy Yandi
 
-<br>
+### Full Stack Developer · Indonesia 🇮🇩
+
+Building modern web applications with a focus on clean code, practical solutions, and continuous learning.
+
+<br/>
+
+<a href="https://linkedin.com/in/echa-muhammad-roffy-yandi">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://instagram.com/echmry">
+  <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
+</a>
+<a href="https://tiktok.com/@echait27">
+  <img src="https://img.shields.io/badge/TikTok-Follow-000000?style=flat-square&logo=tiktok&logoColor=white" alt="TikTok" />
+</a>
+
 </div>
 
 ---
 
-## 👨‍💻 Who Am I?
+## About Me
 
 ```javascript
 const echa = {
-    name: "Echa Muhammad Roffy Yandi",
-    role: "Junior FullStack Web Developer",
-    location: "Indonesia 🇮🇩",
-
-    code: [
-        "JavaScript",
-        "TypeScript",
-        "PHP"
-    ],
-
-    frontend: [
-        "Nuxt.js",
-        "Tailwind CSS"
-    ],
-
-    backend: [
-        "Express.js",
-        "Laravel"
-    ],
-
-    database: [
-        "MySQL"
-    ],
-
-    tools: [
-        "Git",
-        "GitHub"
-    ],
-
-    mindset:
-        "Always learning. Always building. 🚀"
+  name: "Echa Muhammad Roffy Yandi",
+  role: "Full Stack Developer",
+  location: "Indonesia",
+  languages: ["JavaScript", "TypeScript", "PHP"],
+  frontend: ["Vue.js", "Nuxt.js", "Tailwind CSS"],
+  backend: ["Node.js", "Express.js", "Laravel"],
+  database: ["MySQL", "SQL SERVER"],
+  tools: ["Git", "GitHub", "Docker"],
+  currentlyFocusedOn: [
+    "Full Stack Development",
+    "Backend Architecture",
+    "Deployment & DevOps"
+  ],
+  philosophy: "Learn continuously. Build thoughtfully. Ship reliably."
 };
 ```
 
----
+I'm a junior full stack developer passionate about building useful, reliable, and maintainable web applications. I enjoy exploring new technologies, solving technical problems, and turning ideas into working products.
+
+I'm continuously improving my skills in application development, backend engineering, and self-hosted deployment.
+
+## Tech Stack
 
 <div align="center">
 
-## 🧩 Tech Arsenal
+**Languages**
 
-### Frontend
+<img src="https://skillicons.dev/icons?i=js,ts,php" alt="JavaScript, TypeScript, PHP" />
 
-<img src="https://skillicons.dev/icons?i=js,ts,vue,nuxt,tailwind&perline=7" />
+**Frontend**
 
-### Backend
+<img src="https://skillicons.dev/icons?i=vue,nuxt,tailwind" alt="Vue.js, Nuxt.js, Tailwind CSS" />
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,laravel&perline=4" />
+**Backend**
 
-### Database & DevOps
+<img src="https://skillicons.dev/icons?i=nodejs,express,laravel" alt="Node.js, Express.js, Laravel" />
 
-<img src="https://skillicons.dev/icons?i=mysql,git,github&perline=6" />
+**Database & Infrastructure**
+
+<img src="https://skillicons.dev/icons?i=mysql,docker" alt="MySQL, Docker" />
+
+**Tools & Workflow**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Git, GitHub, Visual Studio Code" />
 
 </div>
 
----
+## What I Do
 
-## 🌐 Find Me Around The Internet
+| Area | Focus |
+|---|---|
+| Frontend Development | Responsive interfaces and modern web experiences |
+| Backend Development | REST APIs, application logic, and server-side development |
+| Database Engineering | Relational database design and SQL |
+| Deployment & DevOps | Docker, Linux servers, Nginx, and application deployment |
+| Continuous Learning | Exploring better tools, practices, and architecture |
 
-<div align="center">
+## Current Focus
 
-<a href="https://linkedin.com/in/echa-muhammad-roffy-yandi">
-<img src="https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=38bdf8" />
-</a>
-
-<a href="https://instagram.com/echmry">
-<img src="https://img.shields.io/badge/Instagram-0f172a?style=for-the-badge&logo=instagram&logoColor=38bdf8" />
-</a>
-
-<a href="https://tiktok.com/@echait27">
-<img src="https://img.shields.io/badge/TikTok-0f172a?style=for-the-badge&logo=tiktok&logoColor=38bdf8" />
-</a>
-
-</div>
-
----
+- Building full stack applications with JavaScript and TypeScript.
+- Developing maintainable APIs and backend services.
+- Deploying applications with Docker and Nginx on Linux servers.
+- Improving application security, performance, and reliability.
 
 <div align="center">
 
-### ⚙️ Currently In My Terminal
-
-```text
-> learning new things...
-> building projects...
-> fixing bugs...
-> deploying...
-> coffee.exe running...
-```
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2200&pause=500&color=38BDF8&center=true&vCenter=true&width=550&lines=npm+run+dev;git+commit+-m+%22ship+it%22;-+debugging...;-+building+something+cool..." />
-
-</div>
-
 ---
 
-<div align="center">
+*Keep learning. Keep building. Keep shipping.*
 
-### `Thanks for stopping by 👋`
-
-**Let's build something awesome. 🚀**
+**Thanks for visiting my profile.**
 
 </div>
